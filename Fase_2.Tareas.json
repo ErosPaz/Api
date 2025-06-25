@@ -1,0 +1,255 @@
+[{
+  "_id": {
+    "$oid": "6851d0c3c41695b3dd2d6904"
+  },
+  "usuario_id": {
+    "$oid": "666f1a000000000000000001"
+  },
+  "descripcion": "Ver video sobre técnicas de estudio",
+  "categoria": "video",
+  "fecha_limite": "2025-06-18",
+  "completada": false,
+  "prioridad": "alta",
+  "detalles": {
+    "duracion_estimado_min": 25,
+    "repeticiones": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0c3c41695b3dd2d6905"
+  },
+  "usuario_id": {
+    "$oid": "666f1a000000000000000002"
+  },
+  "descripcion": "Leer capítulo 3 de psicología",
+  "categoria": "lectura",
+  "fecha_limite": "2025-06-19",
+  "completada": true,
+  "prioridad": "media",
+  "detalles": {
+    "duracion_estimado_min": 30,
+    "repeticiones": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0c3c41695b3dd2d6906"
+  },
+  "usuario_id": {
+    "$oid": "666f1a000000000000000003"
+  },
+  "descripcion": "Hacer resumen de técnicas Pomodoro",
+  "categoria": "resumen",
+  "fecha_limite": "2025-06-20",
+  "completada": false,
+  "prioridad": "alta",
+  "detalles": {
+    "duracion_estimado_min": 20,
+    "repeticiones": 2
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0c3c41695b3dd2d6907"
+  },
+  "usuario_id": {
+    "$oid": "666f1a000000000000000004"
+  },
+  "descripcion": "Escuchar podcast sobre estrés académico",
+  "categoria": "audio",
+  "fecha_limite": "2025-06-21",
+  "completada": false,
+  "prioridad": "baja",
+  "detalles": {
+    "duracion_estimado_min": 15,
+    "repeticiones": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0c3c41695b3dd2d6908"
+  },
+  "usuario_id": {
+    "$oid": "666f1a000000000000000005"
+  },
+  "descripcion": "Practicar mapa mental de ciencias",
+  "categoria": "organización",
+  "fecha_limite": "2025-06-22",
+  "completada": true,
+  "prioridad": "alta",
+  "detalles": {
+    "duracion_estimado_min": 45,
+    "repeticiones": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0c3c41695b3dd2d6909"
+  },
+  "usuario_id": {
+    "$oid": "666f1a000000000000000006"
+  },
+  "descripcion": "Aplicar técnica 90/20 para historia",
+  "categoria": "productividad",
+  "fecha_limite": "2025-06-23",
+  "completada": false,
+  "prioridad": "media",
+  "detalles": {
+    "duracion_estimado_min": 90,
+    "repeticiones": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0c3c41695b3dd2d690a"
+  },
+  "usuario_id": {
+    "$oid": "666f1a000000000000000007"
+  },
+  "descripcion": "Escribir reflexión sobre hábitos de estudio",
+  "categoria": "escritura",
+  "fecha_limite": "2025-06-24",
+  "completada": false,
+  "prioridad": "media",
+  "detalles": {
+    "duracion_estimado_min": 20,
+    "repeticiones": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0c3c41695b3dd2d690b"
+  },
+  "usuario_id": {
+    "$oid": "666f1a000000000000000008"
+  },
+  "descripcion": "Revisar notas y hacer flashcards",
+  "categoria": "resumen",
+  "fecha_limite": "2025-06-25",
+  "completada": true,
+  "prioridad": "alta",
+  "detalles": {
+    "duracion_estimado_min": 35,
+    "repeticiones": 2
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0c3c41695b3dd2d690c"
+  },
+  "usuario_id": {
+    "$oid": "666f1a000000000000000009"
+  },
+  "descripcion": "Grabar audio de repaso de fórmulas",
+  "categoria": "audio",
+  "fecha_limite": "2025-06-26",
+  "completada": false,
+  "prioridad": "media",
+  "detalles": {
+    "duracion_estimado_min": 10,
+    "repeticiones": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0c3c41695b3dd2d690d"
+  },
+  "usuario_id": {
+    "$oid": "666f1a000000000000000010"
+  },
+  "descripcion": "Leer artículo sobre procrastinación",
+  "categoria": "lectura",
+  "fecha_limite": "2025-06-27",
+  "completada": false,
+  "prioridad": "media",
+  "detalles": {
+    "duracion_estimado_min": 15,
+    "repeticiones": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0c3c41695b3dd2d690e"
+  },
+  "usuario_id": {
+    "$oid": "666f1a000000000000000011"
+  },
+  "descripcion": "Ver documental sobre concentración",
+  "categoria": "video",
+  "fecha_limite": "2025-06-28",
+  "completada": true,
+  "prioridad": "baja",
+  "detalles": {
+    "duracion_estimado_min": 40,
+    "repeticiones": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0c3c41695b3dd2d690f"
+  },
+  "usuario_id": {
+    "$oid": "666f1a000000000000000012"
+  },
+  "descripcion": "Crear infografía de temas clave",
+  "categoria": "organización",
+  "fecha_limite": "2025-06-29",
+  "completada": false,
+  "prioridad": "alta",
+  "detalles": {
+    "duracion_estimado_min": 30,
+    "repeticiones": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0c3c41695b3dd2d6910"
+  },
+  "usuario_id": {
+    "$oid": "666f1a000000000000000013"
+  },
+  "descripcion": "Preparar resumen para exposición",
+  "categoria": "resumen",
+  "fecha_limite": "2025-06-30",
+  "completada": false,
+  "prioridad": "alta",
+  "detalles": {
+    "duracion_estimado_min": 25,
+    "repeticiones": 2
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0c3c41695b3dd2d6911"
+  },
+  "usuario_id": {
+    "$oid": "666f1a000000000000000014"
+  },
+  "descripcion": "Organizar agenda semanal",
+  "categoria": "organización",
+  "fecha_limite": "2025-07-01",
+  "completada": true,
+  "prioridad": "media",
+  "detalles": {
+    "duracion_estimado_min": 20,
+    "repeticiones": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0c3c41695b3dd2d6912"
+  },
+  "usuario_id": {
+    "$oid": "666f1a000000000000000015"
+  },
+  "descripcion": "Escribir plan de estudio por materias",
+  "categoria": "escritura",
+  "fecha_limite": "2025-07-02",
+  "completada": false,
+  "prioridad": "alta",
+  "detalles": {
+    "duracion_estimado_min": 45,
+    "repeticiones": 1
+  }
+}]

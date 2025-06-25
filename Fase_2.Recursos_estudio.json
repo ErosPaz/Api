@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "685021dcb7ef8caa8ec4b593"
+  },
+  "titulo": "Cómo usar mapas mentales para estudiar",
+  "tipo": "video",
+  "tema": "organización",
+  "url": "https://youtu.be/ejemplo123",
+  "duracion_min": 12,
+  "relevancia": 4.8
+},
+{
+  "_id": {
+    "$oid": "68502873b7ef8caa8ec4b5c2"
+  },
+  "titulo": "Técnicas para mejorar la memoria",
+  "tipo": "artículo",
+  "tema": "memoria",
+  "url": "https://studybuddy.com/articulos/memoria",
+  "duracion_min": 8,
+  "relevancia": 4.6
+},
+{
+  "_id": {
+    "$oid": "68502881b7ef8caa8ec4b5c4"
+  },
+  "titulo": "Guía rápida de mapas conceptuales",
+  "tipo": "video",
+  "tema": "organización",
+  "url": "https://youtu.be/abcd456",
+  "duracion_min": 10,
+  "relevancia": 4.7
+},
+{
+  "_id": {
+    "$oid": "6850288cb7ef8caa8ec4b5c6"
+  },
+  "titulo": "Podcast: cómo evitar distracciones",
+  "tipo": "podcast",
+  "tema": "concentración",
+  "url": "https://spotify.com/episodio123",
+  "duracion_min": 20,
+  "relevancia": 4.4
+},
+{
+  "_id": {
+    "$oid": "68502898b7ef8caa8ec4b5c8"
+  },
+  "titulo": "Checklist para sesiones de estudio",
+  "tipo": "artículo",
+  "tema": "productividad",
+  "url": "https://studybuddy.com/articulos/checklist",
+  "duracion_min": 6,
+  "relevancia": 4.2
+},
+{
+  "_id": {
+    "$oid": "685028a6b7ef8caa8ec4b5ca"
+  },
+  "titulo": "Video: Cómo hacer resúmenes efectivos",
+  "tipo": "video",
+  "tema": "resumen",
+  "url": "https://youtu.be/resumenes",
+  "duracion_min": 15,
+  "relevancia": 4.9
+},
+{
+  "_id": {
+    "$oid": "685028b1b7ef8caa8ec4b5cc"
+  },
+  "titulo": "Técnicas de subrayado inteligente",
+  "tipo": "artículo",
+  "tema": "lectura",
+  "url": "https://studybuddy.com/articulos/subrayado",
+  "duracion_min": 7,
+  "relevancia": 4.5
+},
+{
+  "_id": {
+    "$oid": "685028c1b7ef8caa8ec4b5ce"
+  },
+  "titulo": "Podcast: Estudiar en bloques",
+  "tipo": "podcast",
+  "tema": "time blocking",
+  "url": "https://anchor.fm/blockpod",
+  "duracion_min": 25,
+  "relevancia": 4.3
+},
+{
+  "_id": {
+    "$oid": "685028cdb7ef8caa8ec4b5d0"
+  },
+  "titulo": "Lista de apps para organizar tareas",
+  "tipo": "artículo",
+  "tema": "apps",
+  "url": "https://studybuddy.com/apps",
+  "duracion_min": 9,
+  "relevancia": 4.1
+},
+{
+  "_id": {
+    "$oid": "685028ddb7ef8caa8ec4b5d2"
+  },
+  "titulo": "Tips para preparar exámenes",
+  "tipo": "video",
+  "tema": "estrategias",
+  "url": "https://youtu.be/examenestips",
+  "duracion_min": 18,
+  "relevancia": 4.6
+},
+{
+  "_id": {
+    "$oid": "685028edb7ef8caa8ec4b5d4"
+  },
+  "titulo": "Guía de estudio por metas semanales",
+  "tipo": "artículo",
+  "tema": "planificación",
+  "url": "https://studybuddy.com/metas",
+  "duracion_min": 11,
+  "relevancia": 4.4
+},
+{
+  "_id": {
+    "$oid": "685028fab7ef8caa8ec4b5d6"
+  },
+  "titulo": "Podcast: Cómo dejar de procrastinar",
+  "tipo": "podcast",
+  "tema": "procrastinación",
+  "url": "https://spotify.com/episodio456",
+  "duracion_min": 30,
+  "relevancia": 4.8
+},
+{
+  "_id": {
+    "$oid": "68502905b7ef8caa8ec4b5d8"
+  },
+  "titulo": "Video: Aprende a resumir con IA",
+  "tipo": "video",
+  "tema": "tecnología",
+  "url": "https://youtu.be/resumirIA",
+  "duracion_min": 14,
+  "relevancia": 4.7
+},
+{
+  "_id": {
+    "$oid": "68502910b7ef8caa8ec4b5da"
+  },
+  "titulo": "Artículo: Cómo leer más rápido",
+  "tipo": "artículo",
+  "tema": "lectura",
+  "url": "https://studybuddy.com/lectura-rapida",
+  "duracion_min": 5,
+  "relevancia": 4
+},
+{
+  "_id": {
+    "$oid": "6850291cb7ef8caa8ec4b5dc"
+  },
+  "titulo": "Podcast: Mindfulness y estudio",
+  "tipo": "podcast",
+  "tema": "atención",
+  "url": "https://anchor.fm/mindstudy",
+  "duracion_min": 16,
+  "relevancia": 4.3
+}]

@@ -1,0 +1,301 @@
+[{
+  "_id": {
+    "$oid": "666f1a000000000000000001"
+  },
+  "nombre": "Andrea Ruiz",
+  "correo": "andrea@example.com",
+  "universidad": "EBC",
+  "intereses": [
+    "productividad",
+    "ansiedad",
+    "videos"
+  ],
+  "nivel_estres": 3,
+  "activo": true,
+  "progreso_tareas": 75,
+  "direccion": {
+    "calle": "Av. Universidad 120",
+    "ciudad": "Toluca",
+    "estado": "México"
+  }
+},
+{
+  "_id": {
+    "$oid": "666f1a000000000000000002"
+  },
+  "nombre": "Carlos Vela",
+  "correo": "carlos@example.com",
+  "universidad": "UNAM",
+  "intereses": [
+    "tecnología",
+    "lectura"
+  ],
+  "nivel_estres": 2,
+  "activo": true,
+  "progreso_tareas": 65,
+  "direccion": {
+    "calle": "Calle Reforma 100",
+    "ciudad": "CDMX",
+    "estado": "CDMX"
+  }
+},
+{
+  "_id": {
+    "$oid": "666f1a000000000000000003"
+  },
+  "nombre": "Laura López",
+  "correo": "laura@example.com",
+  "universidad": "ITESM",
+  "intereses": [
+    "videos",
+    "resúmenes"
+  ],
+  "nivel_estres": 4,
+  "activo": false,
+  "progreso_tareas": 20,
+  "direccion": {
+    "calle": "Calle Sur 123",
+    "ciudad": "Monterrey",
+    "estado": "Nuevo León"
+  }
+},
+{
+  "_id": {
+    "$oid": "666f1a000000000000000004"
+  },
+  "nombre": "Jorge Ramírez",
+  "correo": "jorge@example.com",
+  "universidad": "UAM",
+  "intereses": [
+    "música",
+    "podcast"
+  ],
+  "nivel_estres": 1,
+  "activo": true,
+  "progreso_tareas": 90,
+  "direccion": {
+    "calle": "Avenida Central 234",
+    "ciudad": "Ecatepec",
+    "estado": "Edomex"
+  }
+},
+{
+  "_id": {
+    "$oid": "666f1a000000000000000005"
+  },
+  "nombre": "Daniela Torres",
+  "correo": "daniela@example.com",
+  "universidad": "UVM",
+  "intereses": [
+    "meditación",
+    "ejercicio"
+  ],
+  "nivel_estres": 5,
+  "activo": true,
+  "progreso_tareas": 10,
+  "direccion": {
+    "calle": "Colinas 55",
+    "ciudad": "Querétaro",
+    "estado": "Querétaro"
+  }
+},
+{
+  "_id": {
+    "$oid": "666f1a000000000000000006"
+  },
+  "nombre": "Pablo Sánchez",
+  "correo": "pablo@example.com",
+  "universidad": "UAEMex",
+  "intereses": [
+    "organización",
+    "frases"
+  ],
+  "nivel_estres": 2,
+  "activo": false,
+  "progreso_tareas": 50,
+  "direccion": {
+    "calle": "Libertad 89",
+    "ciudad": "Toluca",
+    "estado": "México"
+  }
+},
+{
+  "_id": {
+    "$oid": "666f1a000000000000000007"
+  },
+  "nombre": "Lucía Pérez",
+  "correo": "lucia@example.com",
+  "universidad": "UP",
+  "intereses": [
+    "técnicas",
+    "resúmenes"
+  ],
+  "nivel_estres": 4,
+  "activo": true,
+  "progreso_tareas": 70,
+  "direccion": {
+    "calle": "Jardines 123",
+    "ciudad": "Guadalajara",
+    "estado": "Jalisco"
+  }
+},
+{
+  "_id": {
+    "$oid": "666f1a000000000000000008"
+  },
+  "nombre": "Alejandro Díaz",
+  "correo": "alejandro@example.com",
+  "universidad": "IPN",
+  "intereses": [
+    "programación",
+    "proyectos"
+  ],
+  "nivel_estres": 3,
+  "activo": false,
+  "progreso_tareas": 30,
+  "direccion": {
+    "calle": "Tecnología 45",
+    "ciudad": "CDMX",
+    "estado": "CDMX"
+  }
+},
+{
+  "_id": {
+    "$oid": "666f1a000000000000000009"
+  },
+  "nombre": "Natalia Gómez",
+  "correo": "natalia@example.com",
+  "universidad": "BUAP",
+  "intereses": [
+    "lectura",
+    "audio"
+  ],
+  "nivel_estres": 1,
+  "activo": true,
+  "progreso_tareas": 80,
+  "direccion": {
+    "calle": "Bosques 777",
+    "ciudad": "Puebla",
+    "estado": "Puebla"
+  }
+},
+{
+  "_id": {
+    "$oid": "666f1a000000000000000010"
+  },
+  "nombre": "Sebastián Lara",
+  "correo": "sebastian@example.com",
+  "universidad": "UANL",
+  "intereses": [
+    "videos",
+    "resúmenes"
+  ],
+  "nivel_estres": 3,
+  "activo": true,
+  "progreso_tareas": 55,
+  "direccion": {
+    "calle": "Av. Universidad 501",
+    "ciudad": "Monterrey",
+    "estado": "Nuevo León"
+  }
+},
+{
+  "_id": {
+    "$oid": "666f1a000000000000000011"
+  },
+  "nombre": "Renata Mendoza",
+  "correo": "renata@example.com",
+  "universidad": "UAEH",
+  "intereses": [
+    "relajación",
+    "estrategias"
+  ],
+  "nivel_estres": 2,
+  "activo": false,
+  "progreso_tareas": 40,
+  "direccion": {
+    "calle": "Calle Hidalgo 8",
+    "ciudad": "Pachuca",
+    "estado": "Hidalgo"
+  }
+},
+{
+  "_id": {
+    "$oid": "666f1a000000000000000012"
+  },
+  "nombre": "Valeria Navarro",
+  "correo": "valeria@example.com",
+  "universidad": "UAGRO",
+  "intereses": [
+    "esquemas",
+    "motivación"
+  ],
+  "nivel_estres": 4,
+  "activo": true,
+  "progreso_tareas": 35,
+  "direccion": {
+    "calle": "Marina 95",
+    "ciudad": "Acapulco",
+    "estado": "Guerrero"
+  }
+},
+{
+  "_id": {
+    "$oid": "666f1a000000000000000013"
+  },
+  "nombre": "Mauricio Zúñiga",
+  "correo": "mauricio@example.com",
+  "universidad": "UACH",
+  "intereses": [
+    "videos",
+    "resúmenes"
+  ],
+  "nivel_estres": 5,
+  "activo": true,
+  "progreso_tareas": 60,
+  "direccion": {
+    "calle": "Sierra Madre 66",
+    "ciudad": "Chihuahua",
+    "estado": "Chihuahua"
+  }
+},
+{
+  "_id": {
+    "$oid": "666f1a000000000000000014"
+  },
+  "nombre": "Bianca Ramírez",
+  "correo": "bianca@example.com",
+  "universidad": "EBC",
+  "intereses": [
+    "concentración",
+    "apps"
+  ],
+  "nivel_estres": 1,
+  "activo": true,
+  "progreso_tareas": 85,
+  "direccion": {
+    "calle": "Av. Las Torres 999",
+    "ciudad": "Toluca",
+    "estado": "México"
+  }
+},
+{
+  "_id": {
+    "$oid": "666f1a000000000000000015"
+  },
+  "nombre": "Iván Herrera",
+  "correo": "ivan@example.com",
+  "universidad": "UAS",
+  "intereses": [
+    "tareas",
+    "resúmenes"
+  ],
+  "nivel_estres": 2,
+  "activo": false,
+  "progreso_tareas": 45,
+  "direccion": {
+    "calle": "Pinos 32",
+    "ciudad": "Culiacán",
+    "estado": "Sinaloa"
+  }
+}]

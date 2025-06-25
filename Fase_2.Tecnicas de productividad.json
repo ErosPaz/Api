@@ -1,0 +1,210 @@
+[{
+  "_id": {
+    "$oid": "6851d0e8c41695b3dd2d6915"
+  },
+  "nombre": "Pomodoro",
+  "descripcion": "Trabajar 25 minutos y descansar 5 minutos.",
+  "duracion_bloque": 25,
+  "duracion_descanso": 5,
+  "nivel_recomendado": "básico",
+  "origen": {
+    "autor": "Francesco Cirillo",
+    "año": 1980
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0e8c41695b3dd2d6916"
+  },
+  "nombre": "Técnica 90/20",
+  "descripcion": "Trabajar intensamente 90 minutos y descansar 20.",
+  "duracion_bloque": 90,
+  "duracion_descanso": 20,
+  "nivel_recomendado": "avanzado",
+  "origen": {
+    "autor": "Tony Schwartz",
+    "año": 2012
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0e8c41695b3dd2d6917"
+  },
+  "nombre": "Eisenhower Matrix",
+  "descripcion": "Clasificar tareas según urgencia e importancia.",
+  "duracion_bloque": null,
+  "duracion_descanso": null,
+  "nivel_recomendado": "intermedio",
+  "origen": {
+    "autor": "Dwight D. Eisenhower",
+    "año": 1954
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0e8c41695b3dd2d6918"
+  },
+  "nombre": "Time Blocking",
+  "descripcion": "Bloques de tiempo en calendario para tareas específicas.",
+  "duracion_bloque": 60,
+  "duracion_descanso": 10,
+  "nivel_recomendado": "avanzado",
+  "origen": {
+    "autor": "Cal Newport",
+    "año": 2016
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0e8c41695b3dd2d6919"
+  },
+  "nombre": "Método Ivy Lee",
+  "descripcion": "Lista diaria de 6 tareas ordenadas por prioridad.",
+  "duracion_bloque": null,
+  "duracion_descanso": null,
+  "nivel_recomendado": "básico",
+  "origen": {
+    "autor": "Ivy Lee",
+    "año": 1918
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0e8c41695b3dd2d691a"
+  },
+  "nombre": "Regla 52/17",
+  "descripcion": "Trabajar 52 minutos y descansar 17.",
+  "duracion_bloque": 52,
+  "duracion_descanso": 17,
+  "nivel_recomendado": "intermedio",
+  "origen": {
+    "autor": "Draugiem Group",
+    "año": 2014
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0e8c41695b3dd2d691b"
+  },
+  "nombre": "Método SMART",
+  "descripcion": "Metas Específicas, Medibles, Alcanzables, Relevantes y con Tiempo.",
+  "duracion_bloque": null,
+  "duracion_descanso": null,
+  "nivel_recomendado": "intermedio",
+  "origen": {
+    "autor": "George T. Doran",
+    "año": 1981
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0e8c41695b3dd2d691c"
+  },
+  "nombre": "Regla de los 2 minutos",
+  "descripcion": "Si una tarea toma menos de 2 minutos, hazla ya.",
+  "duracion_bloque": 2,
+  "duracion_descanso": null,
+  "nivel_recomendado": "básico",
+  "origen": {
+    "autor": "David Allen",
+    "año": 2001
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0e8c41695b3dd2d691d"
+  },
+  "nombre": "Técnica del calendario inverso",
+  "descripcion": "Planifica desde la fecha límite hacia atrás.",
+  "duracion_bloque": null,
+  "duracion_descanso": null,
+  "nivel_recomendado": "avanzado",
+  "origen": {
+    "autor": "Michael Hyatt",
+    "año": 2015
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0e8c41695b3dd2d691e"
+  },
+  "nombre": "Batching de tareas",
+  "descripcion": "Agrupar tareas similares y hacerlas juntas.",
+  "duracion_bloque": 30,
+  "duracion_descanso": 5,
+  "nivel_recomendado": "intermedio",
+  "origen": {
+    "autor": "Tim Ferriss",
+    "año": 2007
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0e8c41695b3dd2d691f"
+  },
+  "nombre": "Zen to Done (ZTD)",
+  "descripcion": "Simplifica tareas y enfócate en hábitos.",
+  "duracion_bloque": null,
+  "duracion_descanso": null,
+  "nivel_recomendado": "intermedio",
+  "origen": {
+    "autor": "Leo Babauta",
+    "año": 2007
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0e8c41695b3dd2d6920"
+  },
+  "nombre": "Timeboxing",
+  "descripcion": "Asignar intervalos fijos con inicio y fin definidos.",
+  "duracion_bloque": 45,
+  "duracion_descanso": 15,
+  "nivel_recomendado": "intermedio",
+  "origen": {
+    "autor": "Marc Andreessen",
+    "año": 2006
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0e8c41695b3dd2d6921"
+  },
+  "nombre": "Método 1-3-5",
+  "descripcion": "1 tarea grande, 3 medianas, 5 pequeñas al día.",
+  "duracion_bloque": null,
+  "duracion_descanso": null,
+  "nivel_recomendado": "básico",
+  "origen": {
+    "autor": "Alex Cavoulacos",
+    "año": 2015
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0e8c41695b3dd2d6922"
+  },
+  "nombre": "Barrera de 5 minutos",
+  "descripcion": "Haz algo solo por 5 minutos para empezar.",
+  "duracion_bloque": 5,
+  "duracion_descanso": null,
+  "nivel_recomendado": "básico",
+  "origen": {
+    "autor": "Mel Robbins",
+    "año": 2017
+  }
+},
+{
+  "_id": {
+    "$oid": "6851d0e8c41695b3dd2d6923"
+  },
+  "nombre": "Método Pareto 80/20",
+  "descripcion": "20% de tareas producen 80% de resultados.",
+  "duracion_bloque": null,
+  "duracion_descanso": null,
+  "nivel_recomendado": "avanzado",
+  "origen": {
+    "autor": "Vilfredo Pareto",
+    "año": 1896
+  }
+}]
